@@ -1,0 +1,4 @@
+min - 0
+max - 169
+len - 8
+> median - 1
